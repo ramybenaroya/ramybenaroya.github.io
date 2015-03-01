@@ -3,13 +3,33 @@ layout: page
 title: About
 permalink: /about/
 ---
+Senior Front-End Engineer  
+Works At [Duda](http://dudamobile.com)
 
-Some information about you!
+### Experience
+- Javascript
+- CSS3
+- HTML
+- SVG
+- Responsive Design
+- EmberJS/Ember-CLI
+- jQuery
+- RequireJS
+- AngularJS
+- BackboneJS
+- Handlebars
+- KnockoutJS
+- D3
+- Java
+- J2EE
+- JSP
+- Adobe Flex
+- Node
+- Express
+- Grunt
+- Broccoli
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ramybenaroya@gmail.com](ramybenaroya@gmail.com)
