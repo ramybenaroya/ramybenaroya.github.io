@@ -1,4 +1,8 @@
-###ES6 Generators [es6fiddle](http://www.es6fiddle.net/)s Examples
+---
+layout: post
+title: ES6 Generators Examples
+---
+
 ####Based on [@davidwalsh](https://twitter.com/davidwalshblog)'s [es6-generatoros articles series](http://davidwalsh.name/es6-generators)
 ----------------------------------------------------------
 
