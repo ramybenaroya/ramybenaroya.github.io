@@ -1,18 +1,26 @@
----
-layout: default
----
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content | truncatewords:40}}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <title>Ramy Ben Aroya</title>
+  <style>
+    html, body {
+      margin: 0
+    }
+    object {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  
+  <object data="assets/ramybenaroya.cv.2019.pdf" type="application/pdf">
+    <embed src="assets/ramybenaroya.cv.2019.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/ramybenaroya.cv.2019.pdf">Download PDF</a>.</p>
+    </embed>
+  </object>
+</body>
+</html>
